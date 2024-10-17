@@ -1,3 +1,3 @@
-# sentiment-analysis-cwcbd23
+# Bangla Sentiment and Sarcasm Detection: Reactions to Bangladesh's 2023 World Cup
 
-contains dataset, implementations
+This section includes the dataset, various implementations, and all necessary files.
