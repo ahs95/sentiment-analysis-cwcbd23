@@ -19,6 +19,8 @@ You can access the trained model on Hugging Face using the following link:
 
 [**Bangla Sentiment and Sarcasm Detection Model**](https://huggingface.co/ahs95/sentiment-sarcasm-detection-BanglaBERT)
 
+Notebook Preview: https://nbviewer.org/github/ahs95/sentiment-analysis-cwcbd23/blob/main/Copy_of_sentiment_analysis_bdcric23.ipynb
+
 ### 📁 Dataset
 
 We present the largest publicly available dataset of Bangla comments focused on sentiment and sarcasm detection:
