@@ -4,6 +4,8 @@ This repository contains the implementation, dataset, and models for the paper *
 
 The project addresses **class imbalance**, employs **language-specific pretraining**, and introduces a **dual-head transformer-based model** fine-tuned using **BanglaBERT** with **focal loss**. Additionally, we provide an interactive **Gradio demo** for real-time inference.
 
+*Notebook Preview:* https://nbviewer.org/github/ahs95/sentiment-analysis-cwcbd23/blob/main/Copy_of_sentiment_analysis_bdcric23.ipynb
+
 ### 🧠 Key Features
 
 - ✅ **Manually Annotated Dataset**: A comprehensive collection of **5,635 Bangla comments**.
@@ -18,8 +20,6 @@ The project addresses **class imbalance**, employs **language-specific pretraini
 You can access the trained model on Hugging Face using the following link:
 
 [**Bangla Sentiment and Sarcasm Detection Model**](https://huggingface.co/ahs95/sentiment-sarcasm-detection-BanglaBERT)
-
-Notebook Preview: https://nbviewer.org/github/ahs95/sentiment-analysis-cwcbd23/blob/main/Copy_of_sentiment_analysis_bdcric23.ipynb
 
 ### 📁 Dataset
 
