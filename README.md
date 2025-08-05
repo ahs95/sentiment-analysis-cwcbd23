@@ -13,6 +13,12 @@ The project addresses **class imbalance**, employs **language-specific pretraini
 - ✅ **Interactive Gradio Interface**: Facilitates real-time predictions and user interaction.
 - ✅ **Open Source**: Publicly available code and dataset for reproducibility and further research.
 
+### 🌐 Model Access
+
+You can access the trained model on Hugging Face using the following link:
+
+[**Bangla Sentiment and Sarcasm Detection Model**](https://huggingface.co/ahs95/sentiment-sarcasm-detection-BanglaBERT)
+
 ### 📁 Dataset
 
 We present the largest publicly available dataset of Bangla comments focused on sentiment and sarcasm detection:
