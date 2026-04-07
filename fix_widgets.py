@@ -4,9 +4,11 @@ import uuid
 
 def fix_notebook(path):
     nb = nbformat.read(path, as_version=nbformat.NO_CONVERT)
+    # normalize will add missing cell ids and other structural fixes
+    nb = nbformat.normalize(nb)
     changed = False
     for cell in nb.get('cells', []):
-        # ensure cell id
+        # ensure cell id exists (normalize should handle this, but keep safe)
         if 'id' not in cell or not cell['id']:
             cell['id'] = uuid.uuid4().hex
             changed = True
