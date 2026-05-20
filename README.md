@@ -6,7 +6,7 @@
 [![Hugging Face](https://img.shields.io/badge/🤗_Model-Weights-ff6f61)](https://huggingface.co/ahs95/sentiment-sarcasm-detection-BanglaBERT)
 
 Joint sentiment classification & sarcasm detection for severely imbalanced Bangla social media text. This repository contains the complete training pipeline, dynamic loss scheduling implementation, class-aware threshold calibration, and Gradio deployment for the paper:
-> **Sentiment and Sarcasm Detection in Bangla: A Calibrated Multitask Framework for Imbalanced Cricket Discourse**
+> [Sentiment and Sarcasm Detection in Bangla: A Calibrated Multitask Framework for Imbalanced Cricket Discourse](https://zenodo.org/records/20307593)
 
 ---
 
@@ -143,5 +143,3 @@ If you use this code, dataset, or model in your research, please cite:
 - 🤝 **Model/Weights:** Apache 2.0 / CC-BY-NC 4.0
 - 📧 **Correspondence:** `ahsbd95@gmail.com`
 ```
-
----
