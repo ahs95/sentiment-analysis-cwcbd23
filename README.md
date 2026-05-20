@@ -142,4 +142,3 @@ If you use this code, dataset, or model in your research, please cite:
 - 🔓 **Code:** Apache 2.0
 - 🤝 **Model/Weights:** Apache 2.0 / CC-BY-NC 4.0
 - 📧 **Correspondence:** `ahsbd95@gmail.com`
-```
